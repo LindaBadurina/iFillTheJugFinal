@@ -1,0 +1,50 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.jug {
+    float: right;
+    margin-right: 10%;
+    margin-top: 20px;
+}
+
+.orange {
+    float: left;
+    margin-left: 18%;
+    margin-top: 5px;
+}
+
+.achievement {
+    float: left;
+    margin-top: -60px;
+    margin-left: 130px;
+    visibility: hidden;
+}
+
+.slice {
+    position: absolute;
+    left: 500px;
+    top: 300px;
+    visibility: hidden;
+}
+
+.bomb {
+    position: absolute;
+    visibility: hidden;
+    top: 350px;
+    left: 240px;
+}
+
+.score {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 1.5em;
+    color: #803f00;
+    visibility: hidden;
+}
+
+.total {
+    text-align: center;
+    font-size: 1.8em;
+    color:  #803f00;
+}
